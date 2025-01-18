@@ -1,4 +1,4 @@
-CREATE TABLE `ddl_files/TEST_DDL.sql` (
+CREATE TABLE `TEST.ddl` (
   `Id` NUMERIC,
   `Created_Ts` DATETIME,
   Metauid STRING,

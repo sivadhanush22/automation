@@ -1,5 +1,5 @@
 CREATE TABLE `tables_ods.Hello_DDL` (
-  `Updated_Time`             STRING,
+  `Updated_Time` DATE,
   `Date` DATE,
   `UpdatedTime` DATE,
   Metauid STRING,

@@ -1,5 +1,5 @@
 CREATE TABLE `tables_ods.Hello` (
-  `UpdatedTime` STRING,
+  `UpdatedTime` DATE,
   `Date` DATE,
   `Metauid` STRING,
   `Metains` TIMESTAMP

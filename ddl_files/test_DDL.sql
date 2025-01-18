@@ -1,4 +1,4 @@
-CREATE TABLE `tables_ods.Test` (
+CREATE TABLE `tables_ods.test` (
   `id` NUMERIC,
   `created_ts` timestamp,
   `createdTs` DATETIME,

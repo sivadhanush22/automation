@@ -1,9 +1,5 @@
 CREATE TABLE `table_ods.hello` (
-  `Updated_Time` DATE,
-  `Date` DATE,
-  `updated_time` date,
-  `date` DATE,
-  `updatedTime` DATE,
+  `Updated_Time` STRING,
   Metauid STRING,
   Metains TIMESTAMP
 );

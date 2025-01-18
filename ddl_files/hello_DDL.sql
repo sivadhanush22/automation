@@ -1,4 +1,4 @@
-CREATE TABLE `tables_ods.Hello` (
+CREATE TABLE `tables_ods.hello` (
   `updated_time` date,
   `date` DATE,
   `updatedTime` DATE,

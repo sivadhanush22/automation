@@ -1,6 +1,6 @@
 CREATE TABLE `tables_ods.Hello_DDL` (
-  `Updated_Time`            INT,
-, 'MONEY'    'TIME'
+  `Updated_Time` DATE,
+  `Date` DATE,
   Metauid STRING,
   Metains TIMESTAMP
 );

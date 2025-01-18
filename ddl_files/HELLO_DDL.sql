@@ -1,4 +1,4 @@
-CREATE TABLE `ddl_files/HELLO_DDL.sql` (
+CREATE TABLE `HELLO.ddl` (
   `Updated_Time` STRING,
   `Date` DATE,
   Metauid STRING,

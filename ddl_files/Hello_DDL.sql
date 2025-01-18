@@ -1,4 +1,4 @@
 CREATE TABLE `tables_ods.Hello` (
-  `Updated_Time` DATE,
+  `Updated_Time` STRING,
   `Date` DATE
 );

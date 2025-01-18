@@ -1,6 +1,5 @@
-CREATE TABLE `tables_ods.TEST_DDL.sql` (
-  `Id` NUMERIC,,,,,
-  `CreatedTs` DATETIME,,,
-  Metauid STRING,
-  Metains TIMESTAMP
+CREATE TABLE `ddl_files/TEST_DDL.sql` (
+  `Id` NUMERIC,
+  `Created_Ts` DATETIME,
+  `CreatedTs` DATETIME
 );

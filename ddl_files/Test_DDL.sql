@@ -1,4 +1,4 @@
-CREATE TABLE `table_ods.Test.sql` (
+CREATE TABLE `table_ods.Test` (
   `Id` NUMERIC,
   `Created_Ts` DATETIME,
   Metauid STRING,

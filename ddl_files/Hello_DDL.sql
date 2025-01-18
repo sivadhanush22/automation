@@ -1,4 +1,6 @@
-CREATE TABLE `tables_ods.Hello_Test_Example` (
+CREATE TABLE `tables_ods.Hello` (
+  `Updated_Time` DATE,
+  `Date` DATE,
   Metauid STRING,
   Metains TIMESTAMP
 );

@@ -1,6 +1,6 @@
-CREATE TABLE `tables_ods.Hello` (
-  `Updated_Time` DATE,
-  `Date` DATE,
+CREATE TABLE `tables_ods.hello` (
+  `updatedTime` DATE,
+  `date` DATE,
   Metauid STRING,
   Metains TIMESTAMP
 );

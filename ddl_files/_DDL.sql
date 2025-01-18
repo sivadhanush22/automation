@@ -1,6 +1,6 @@
 CREATE TABLE `tables_ods.` (
-  `` NUMERIC,
-  `Ts` DATETIME,
+  `Time` DATE,
+  `` DATE,
   Metauid STRING,
   Metains TIMESTAMP
 );

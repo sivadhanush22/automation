@@ -1,4 +1,4 @@
-CREATE TABLE `tables_ods.Hello` (
+CREATE TABLE `table_ods.HELLO` (
   `Updated_Time` DATE,
   `Date` DATE,
   Metauid STRING,

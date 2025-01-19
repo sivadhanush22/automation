@@ -1,4 +1,4 @@
-CREATE TABLE tables_ods.Hello_DDL (
+CREATE TABLE tables_ods.Hello (
   Metauid STRING,
   Metains TIMESTAMP
 );

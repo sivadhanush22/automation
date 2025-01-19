@@ -3,5 +3,6 @@ CREATE TABLE tables_ods.test (
   createdTs DATETIME,
   Metauid STRING,
   Metauid STRING,
+  Metauid STRING,
   Metains TIMESTAMP
 );

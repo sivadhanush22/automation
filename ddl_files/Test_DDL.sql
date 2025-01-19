@@ -1,4 +1,4 @@
-CREATE TABLE `tables_ods.Test_DDL` (
+CREATE TABLE `tables_ods.test` (
   `Id` NUMERIC,
   `Created_Ts` DATETIME,
   `Metauid` STRING,

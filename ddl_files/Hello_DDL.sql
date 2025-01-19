@@ -1,3 +1,3 @@
 CREATE TABLE tables_ods.Hello_DDL (
-Hell
+Updated_Time
 );

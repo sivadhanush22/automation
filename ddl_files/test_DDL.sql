@@ -1,7 +1,8 @@
-CREATE TABLE tables_ods.test_DDL (
-  id NUMERIC,
-  createdTs DATETIME,
+CREATE TABLE tables_ods.test (
+  Id NUMERIC,
+  Created_Ts DATETIME,
   Metauid STRING,
   Metauid STRING,
-  Metains TIMESTAMP
+  Metains TIMESTAMP,
+  -- id -- DELETED
 );

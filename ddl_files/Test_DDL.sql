@@ -1,4 +1,7 @@
 CREATE TABLE tables_ods.Test (
-  id NUMERIC,
-  created_ts TIMESTAMP
+  Id NUMERIC,
+  Created_Ts DATETIME,
+  Metauid STRING,
+  Metauid STRING,
+  Metains TIMESTAMP
 );

@@ -3,5 +3,6 @@ CREATE TABLE tables_ods.Hello_DDL (
   Date DATE,
   Metauid STRING,
   Metauid STRING,
+  Metauid STRING,
   Metains TIMESTAMP
 );

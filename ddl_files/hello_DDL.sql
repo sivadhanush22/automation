@@ -4,5 +4,6 @@ CREATE TABLE tables_ods.hello (
   Metauid STRING,
   Metauid STRING,
   Metains TIMESTAMP,
-  -- updatedTime -- DELETED
+  Metauid STRING,
+  Metains TIMESTAMP
 );

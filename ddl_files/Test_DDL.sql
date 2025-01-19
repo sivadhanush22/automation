@@ -9,5 +9,6 @@ CREATE TABLE tables_ods.Test (
   Metauid STRING,
   Metauid STRING,
   Metauid STRING,
+  Metauid STRING,
   Metains TIMESTAMP
 );

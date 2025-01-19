@@ -4,5 +4,6 @@ CREATE TABLE tables_ods.test (
   Metauid STRING,
   Metauid STRING,
   Metains TIMESTAMP,
-  -- id -- DELETED
+  Metauid STRING,
+  Metains TIMESTAMP
 );

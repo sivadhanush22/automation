@@ -5,5 +5,6 @@ CREATE TABLE tables_ods.Hello (
   Metauid STRING,
   Metauid STRING,
   Metauid STRING,
+  Metauid STRING,
   Metains TIMESTAMP
 );

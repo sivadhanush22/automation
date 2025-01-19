@@ -1,0 +1,6 @@
+CREATE TABLE tables_ods.HELLO (
+  UPDATED_TIME DATE,
+  DATE DATE,
+  Metauid STRING,
+  Metains TIMESTAMP
+);

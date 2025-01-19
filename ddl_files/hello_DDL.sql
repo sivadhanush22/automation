@@ -1,7 +1,8 @@
 CREATE TABLE tables_ods.hello (
-  Updated_Time DATE,
-  Date DATE,
+  updatedTime DATE,
+  date DATE,
   Metauid STRING,
   Metauid STRING,
-  Metains TIMESTAMP
+  Metains TIMESTAMP,
+  -- Updated_Time -- DELETED
 );

@@ -3,6 +3,5 @@ CREATE TABLE tables_ods.Test_DDL (
   Created_Ts DATETIME,
   Metauid STRING,
   Metauid STRING,
-  Metauid STRING,
-  Metains TIMESTAMP
+  Metauid STRING
 );

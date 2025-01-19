@@ -1,4 +1,5 @@
-CREATE TABLE tables_ods.Hello (
-Updated_Time DATE,
-  Date DATE
+CREATE TABLE tables_ods.Hello_DDL (
+  `Updated_Time` DATE,
+  `Metauid` STRING,
+  `Metains` TIMESTAMP
 );

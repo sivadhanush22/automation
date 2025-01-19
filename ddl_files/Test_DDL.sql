@@ -1,4 +1,4 @@
-CREATE TABLE tables_ods.test (
+CREATE TABLE tables_ods.Test (
   Metauid STRING,
   Metains TIMESTAMP
 );

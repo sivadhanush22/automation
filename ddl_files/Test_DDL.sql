@@ -1,5 +1,5 @@
 CREATE TABLE `tables_ods.Test` (
-  `Id` NUMERIC,
+  `Id` INT,
   `Created_Ts` DATETIME,
   Metauid STRING,
   Metains TIMESTAMP

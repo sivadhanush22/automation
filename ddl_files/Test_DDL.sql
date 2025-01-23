@@ -1,4 +1,4 @@
 CREATE TABLE `tables_ods.Test` (
-  `Id` NUMERIC,
+  `Id` NUMBER,
   `CreatedTs` DATETIME
 );

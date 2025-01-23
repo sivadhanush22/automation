@@ -1,4 +1,6 @@
-CREATE TABLE tables_ods.Test_DDL (
-  `Metauid` STRING,
-  `Metains` TIMESTAMP
+CREATE TABLE `tables_ods.Test` (
+  `Id` NUMERIC,
+  `Created_Ts` DATETIME,
+  Metauid STRING,
+  Metains TIMESTAMP
 );

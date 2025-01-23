@@ -1,7 +1,4 @@
-CREATE TABLE `table_ods.Hello` (
-  `Updated_Time` DATE,
-  `Date` DATE,
-  `UpdatedTime` DATE,
-  Metauid STRING,
-  Metains TIMESTAMP
+CREATE TABLE tables_ods.Hello_DDL (
+  `Metauid` STRING,
+  `Metains` TIMESTAMP
 );

@@ -1,6 +1,7 @@
 CREATE TABLE `tables_ods.Test` (
-  `Id` NUMERIC,
+  `Id`                                 NUMERIC,
   `Created_Ts` DATETIME,
-  Metauid STRING,
+  `mony`    money,
+  ,Metauid STRING,
   Metains TIMESTAMP
 );

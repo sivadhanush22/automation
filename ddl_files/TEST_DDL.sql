@@ -1,7 +1,7 @@
 CREATE TABLE tables_ods.test (
   CREATE TABLE,
   Id NUMERIC,
-  CreatedTs DATETIME,
+  Created_Ts DATETIME,
   Metauid STRING,
   Metains TIMESTAMP
 );

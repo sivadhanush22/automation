@@ -1,4 +1,4 @@
-CREATE TABLE tables_ods.hello (
+CREATE TABLE tables_ods.Hello (
   CREATE TABLE,
   Updated_Time DATE,
   Date DATE,
